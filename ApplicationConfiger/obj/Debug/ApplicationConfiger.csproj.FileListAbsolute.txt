@@ -1,0 +1,8 @@
+H:\王明强\119Training\ApplicationConfiger\bin\Debug\ApplicationConfiger.exe
+H:\王明强\119Training\ApplicationConfiger\bin\Debug\ApplicationConfiger.pdb
+H:\王明强\119Training\ApplicationConfiger\obj\Debug\ResolveAssemblyReference.cache
+H:\王明强\119Training\ApplicationConfiger\obj\Debug\ApplicationConfiger.Form1.resources
+H:\王明强\119Training\ApplicationConfiger\obj\Debug\ApplicationConfiger.Properties.Resources.resources
+H:\王明强\119Training\ApplicationConfiger\obj\Debug\ApplicationConfiger.csproj.GenerateResource.Cache
+H:\王明强\119Training\ApplicationConfiger\obj\Debug\ApplicationConfiger.exe
+H:\王明强\119Training\ApplicationConfiger\obj\Debug\ApplicationConfiger.pdb

@@ -1,0 +1,6 @@
+H:\王明强\119Training\119TrainingHelper\bin\Release\119TrainingHelper.dll
+H:\王明强\119Training\119TrainingHelper\bin\Release\119TrainingHelper.pdb
+H:\王明强\119Training\119TrainingHelper\obj\Release\ResolveAssemblyReference.cache
+H:\王明强\119Training\119TrainingHelper\obj\Release\119TrainingHelper.dll
+H:\王明强\119Training\119TrainingHelper\obj\Release\119TrainingHelper.pdb
+H:\王明强\119Training\119TrainingHelper\bin\Release\119TrainingHelper.dll.config

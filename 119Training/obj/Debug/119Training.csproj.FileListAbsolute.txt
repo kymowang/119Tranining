@@ -1,0 +1,9 @@
+H:\王明强\119Training\119Training\bin\Debug\119Training.exe
+H:\王明强\119Training\119Training\bin\Debug\119Training.pdb
+H:\王明强\119Training\119Training\obj\Debug\ResolveAssemblyReference.cache
+H:\王明强\119Training\119Training\obj\Debug\_119Training.Properties.Resources.resources
+H:\王明强\119Training\119Training\obj\Debug\119Training.csproj.GenerateResource.Cache
+H:\王明强\119Training\119Training\obj\Debug\119Training.exe
+H:\王明强\119Training\119Training\obj\Debug\119Training.pdb
+H:\王明强\119Training\119Training\obj\Debug\_119Training.MainForm.resources
+H:\王明强\119Training\119Training\bin\Debug\Training119.exe.config

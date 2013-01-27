@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training119", "119Training\Training119.csproj", "{CEB70320-8068-467F-9A83-CDC0B5DD74FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationConfiger", "ApplicationConfiger\ApplicationConfiger.csproj", "{514261C0-292C-47A2-BDDC-5BBD28A7CD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "119TrainingHelper", "119TrainingHelper\119TrainingHelper.csproj", "{3E886E35-B244-4700-9366-1255710EDFF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB70320-8068-467F-9A83-CDC0B5DD74FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB70320-8068-467F-9A83-CDC0B5DD74FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB70320-8068-467F-9A83-CDC0B5DD74FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB70320-8068-467F-9A83-CDC0B5DD74FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514261C0-292C-47A2-BDDC-5BBD28A7CD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514261C0-292C-47A2-BDDC-5BBD28A7CD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514261C0-292C-47A2-BDDC-5BBD28A7CD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514261C0-292C-47A2-BDDC-5BBD28A7CD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E886E35-B244-4700-9366-1255710EDFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E886E35-B244-4700-9366-1255710EDFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E886E35-B244-4700-9366-1255710EDFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E886E35-B244-4700-9366-1255710EDFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
